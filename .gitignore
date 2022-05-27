@@ -2,3 +2,11 @@ musicians-death.code-workspace
 JSON_TWITTER_DUMPS/.DS_Store
 JSON_TWITTER_DUMPS/drakeo_no_RT.json
 JSON_TWITTER_DUMPS/drakeo_new_fields.json
+JSON_TWITTER_DUMPS/betty_davis_new_fields.json
+JSON_TWITTER_DUMPS/k_hand_new_fields.json
+JSON_TWITTER_DUMPS/kelli_hand_new_fields.json
+JSON_TWITTER_DUMPS/khand_new_fields.json
+CSVs/betty_davis_mentions_network.csv
+CSVs/drakeo_mentions_network.csv
+Pickles/betty_davis_mentions_network.pkl
+Pickles/drakeo_mentions_network.pkl
