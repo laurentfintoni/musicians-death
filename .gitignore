@@ -10,3 +10,6 @@ CSVs/betty_davis_mentions_network.csv
 CSVs/drakeo_mentions_network.csv
 Pickles/betty_davis_mentions_network.pkl
 Pickles/drakeo_mentions_network.pkl
+Gephi/.DS_Store
+CSVs/.DS_Store
+.DS_Store
